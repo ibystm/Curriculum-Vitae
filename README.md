@@ -33,7 +33,7 @@
 - Google Cloud Platform/Heroku
 - Vagrant/Docker
 - Swagger
-- github/gitlab
+- GitHub/GitLab
 - Jira/Backlog
 - Slack/Chatwork
 - などなど
@@ -43,7 +43,7 @@
 - 日本語
   - ネイティブ
 - 英語
-  - かんたんな日常会話が可能
+  - 簡単な日常会話が可能
     - 個人的に言語の学習が好きで、YouTube 等で英語の学習を継続して行っています。日常的な情報収集を英語ベースでも行っています。
     - 現職でもオフショア先とのやり取りは完全に英語(テキストベース)で行っていました。
 
@@ -72,7 +72,7 @@
 &nbsp; 入社して半年間ほどはスマートロックアプリケーション(iOS/Android)の開発に携わり、画面の実装からバックエンド、BLE(Blutooth Low Energy)通信まで幅広く実装する機会をいただきました。すべて初めて使用する技術でしたが、勤務終わりの時間や休日の期間を費やしてなんとかキャッチアップしながら業務を遂行しました。
 バックエンドから Web フロントエンド、スマートフォンアプリケーション開発まで幅広く行うようになりました。
 
-&nbsp; 開発環境は、スマートフォンアプリケーションで React Native、Web フロントには React.js を使用しておりました。バックエンドは すべて Node.js/Express で統一されており、フロントエンド・バックエンドともに JavaScript の部分はすべて TypeScript で静的型付けで開発しておりました。インフラは Google Cloud Platform を使用して完全にクラウド環境でサービス運用を行っておりました。
+&nbsp; 開発環境は、スマートフォンアプリケーションで React Native、Web フロントには React.js を使用しておりました。バックエンドは すべて Node.js/Express で統一されており、フロントエンド・バックエンドともに JavaScript の部分はすべて TypeScript にて型整備されて開発しておりました。インフラは Google Cloud Platform を使用して完全にクラウド環境でサービス運用を行っておりました。
 
 その他ツール等: GitHub/GitLab/Jira/Trello/Slack/Swagger
 
