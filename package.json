@@ -1,0 +1,12 @@
+{
+  "name": "Curriculum-Vitae",
+  "version": "1.0.0",
+  "description": "職務経歴書",
+  "main": "index.js",
+  "repository": "git@github.com:ibystm/Curriculum-Vitae.git",
+  "author": "Kosuke Takahashi <rhcp.kdog@gmail.com>",
+  "dependencies": {
+    "git": "^0.1.5",
+    "md-to-pdf": "^4.0.0"
+  }
+}
