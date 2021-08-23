@@ -14,7 +14,7 @@
 ### プログラミング言語
 
 - TypeScript/JavaScript
-  - 基本的に実務と個人開発で 2 年程使用
+  - 実務と個人開発で 2 年程使用
 - PHP
   - 主に個人開発で 8 ヶ月程使用
 
@@ -22,7 +22,8 @@
 
 - React.js
 - React Native
-- Express
+- Express.js
+- jQuery
 - Laravel
 - CodeIgniter
 
