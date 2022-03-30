@@ -87,7 +87,7 @@
 
   - 一部状態管理ライブラリがレガシーな箇所が散見されていたため、自身が主導して、ライブラリのリプレイス作業を行っています。
 
-  **主な使用技術**
+**主な使用技術**
 
 - JavaScript/TypeScript/React/Redux/Storybook/Jest/Swagger/Figma/Yarn/webpack/GitLab/GitLab CI 等
 
