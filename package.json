@@ -7,6 +7,6 @@
   "author": "Kosuke Takahashi <rhcp.kdog@gmail.com>",
   "dependencies": {
     "git": "^0.1.5",
-    "md-to-pdf": "^4.0.0"
+    "md-to-pdf": "^5.2.1"
   }
 }
